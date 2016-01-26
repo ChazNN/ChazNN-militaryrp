@@ -1,0 +1,5 @@
+"gamemode"
+{
+	"base" "nutscript"
+	"title" "Military RP"
+}
